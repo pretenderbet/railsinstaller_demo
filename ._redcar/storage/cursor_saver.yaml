@@ -1,0 +1,24 @@
+--- 
+cursor_positions: 
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-07-11 17:09:09.379000 +01:00
+  - :path: config/boot.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-11 17:09:11.190000 +01:00
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-11 17:09:09.483000 +01:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 46
+    :timestamp: 2012-07-13 15:22:37.312000 +01:00
+  - :path: app\controllers\welcome_controler.rb
+    :cursor_offset: 69
+    :timestamp: 2012-07-13 15:19:01.139000 +01:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-07-11 17:09:09.439000 +01:00
+  - :path: config/routes.rb
+    :cursor_offset: 1476
+    :timestamp: 2012-07-13 15:25:50.847000 +01:00
+files_to_retain: 0
